@@ -2,7 +2,7 @@
 layout: cv
 title: Babken Gevorgyan's CV
 ---
-# Isaac Newton
+# Babken Gevorgyan
 Senior .NET developer
 
 <div id="webaddress">
